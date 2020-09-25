@@ -1,0 +1,47 @@
+.Jane {
+    table-layout: auto;
+}
+
+.One {
+    text-align: center;
+    padding-top: 40px;
+    margin: 5px;
+    color: white;
+    background-color: green;
+    width:200px;
+    height:50px;
+    float: left;
+    clear: both;
+}
+
+.Two {
+    text-align: center;
+    padding-top: 40px;
+    margin: 5px;
+    color: white;
+    background-color: green;
+    width:200px;
+    height:50px;
+    float: left;
+    
+}
+
+.bullshit_one {
+    background-color: black;
+    padding-top: 40px;
+    margin: 5px;
+    width:200px;
+    height:50px;
+    float: left;
+}
+
+.Tree {
+    text-align: center;
+    padding-top: 40px;
+    margin: 5px;
+    background-color:white;
+    width:200px;
+    height:50px;
+    float: right;
+    clear: left;
+}
